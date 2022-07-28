@@ -25,7 +25,7 @@ Para o projeto final do Módulo 2 da formação em Data Analytics da [Resilia Ed
 
 Ao iniciar o programa, é apresentado uma breve explicação sobre a pesquisa e como é possível encerrar a aplicação. Em seguida, o usuário deve digitar a sua idade (utilizando apenas números):
 * Caso digite '00', aparecerá uma mensagem de agradecimento e o questionário será finalizado;
-* Caso digite uma idade entre 1 e 15 anos aparecerá uma mensagem informando que no Brasil uma pessoa é apta a se tornar eleitor(a) apenas a partir dos 16 anos de idade. Como nossa pesquisa é destinada para pessoas que são já eleitores(as) a pesquisa também será finalizada;
+* Caso digite uma idade entre 1 e 15 anos aparecerá uma mensagem informando que no Brasil uma pessoa é apta a se tornar eleitor(a) apenas a partir dos 16 anos de idade. Assim, como nossa pesquisa é destinada para pessoas que são já eleitores(as) a pesquisa também será finalizada;
 * Ao digitar uma idade válida (entre 16 e 100 anos), será imediamante registrado a data e o horário naquele momento.
 
 Logo em seguida, o usuário deve informar qual o gênero que se identifica. Para isso, deve digitar o número que corresponde a opção escolhida: '1','2','3' ou '4'. A pesquisa só irá avançar ao ser digitado uma opção válida, caso contrário é solicitado que o usuário verifique sua resposta e tente novamente. 
